@@ -32,4 +32,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Future Improvements:
 
-In the future, I plan to enhance Robo Speaker by adding more functionality, such as the ability to choose different voices, adjust the speaking speed, and save audio files. I am excited to continue working on this project and exploring the possibilities of text-to-speech technology.
+In the future, I plan to enhance Robo Speaker by adding more functionality, such as the ability to choose different voices, adjust the speaking speed, and save audio files. I am excited to continue working on this project and exploring the possibilities of text-to-speech technology..
